@@ -1,0 +1,19 @@
+/* TAILWIND-CSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/************************************/
+@import url('https://fonts.googleapis.com/css2?family=Lexend&display=swap');
+/************************************/
+
+
+
+/************************************/
+body {
+    padding: 0;
+    margin: 0;
+}
+/************************************/
